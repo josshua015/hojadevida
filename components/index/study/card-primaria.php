@@ -1,4 +1,4 @@
-<div class="card mb-3 shadow mt-5">
+<div class="card mb-3 shadow-lg p-3 mb-5 bg-body rounded mt-5">
   <div class="row g-0">    
     <div class="col-md-8">
       <div class="card-body">
